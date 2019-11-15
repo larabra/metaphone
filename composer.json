@@ -1,0 +1,36 @@
+{
+    "name": "larabra/metaphone",
+    "description": "Brazilian Portuguese Metaphone for Laravel",
+    "keywords": ["php", "metaphone"],
+    "type": "package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Prefeitura Municipal de Várzea Paulista"
+        },
+        {
+            "name": "Carlos Costa Jordao",
+            "email": "carlosjordao@gmail.com"
+        },
+        {
+            "name": "João Antonio Ferreira",
+            "email": "joao.parana@gmail.com"
+        },
+        {
+            "name": "Gabriel Rodrigues Couto",
+            "email": "gabriel@r3c.com.br"
+        },
+        {
+            "name": "Ennio Sousa",
+            "email": "ennio@enniosousa.com.br"
+        }
+    ],
+    "version": "v1.0.0",
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "Larabra\\Metaphone\\": "src/"
+        }
+    }
+}
