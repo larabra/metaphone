@@ -553,7 +553,7 @@ class PortugueseMetaphone
         $explode = explode(' ', $phrase);
 
         foreach ($explode as $word) {
-            $return .= Metaphone::getMetaphone($word) . ' ';
+            $return .= self::getMetaphone($word) . ' ';
         }
 
         return $return;
