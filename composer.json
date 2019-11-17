@@ -25,9 +25,11 @@
             "email": "ennio@enniosousa.com.br"
         }
     ],
-    "version": "v1.0.0",
-    "minimum-stability": "stable",
-    "require": {},
+    "version": "v1.0.1",
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.4.0"
+    },
     "autoload": {
         "psr-0": {
             "Larabra\\Metaphone\\": "src/"
