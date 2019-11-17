@@ -1,6 +1,6 @@
 {
     "name": "larabra/metaphone",
-    "description": "Brazilian Portuguese Metaphone for Laravel",
+    "description": "Brazilian Portuguese Metaphone for PHP",
     "keywords": ["php", "metaphone"],
     "type": "package",
     "license": "MIT",
